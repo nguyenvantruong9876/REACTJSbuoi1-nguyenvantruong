@@ -7,7 +7,43 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.feature{
+  width: 66px;
+  height: 66px;
+
+  margin: 0 auto;
+}
+.feature .fa-wifi{
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+}
+.feature .fa-cloud-arrow-down{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .feature .fa-credit-card{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .feature .fa-b{
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+ }
+ .feature .fa-code{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .feature .fa-check{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ 
+.btn-card{
+  border-top: 1px solid black;
 }
